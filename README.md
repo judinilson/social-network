@@ -1,4 +1,4 @@
-# social-network
+# Blog social-network
 
 - BlockChain social network with smart contracts
 - People can create they own avatars base on etherium address
