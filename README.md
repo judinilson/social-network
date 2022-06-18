@@ -8,3 +8,19 @@
 # Project Results
 
 ![Logo](./public/screenshot.png)
+
+# Getting Started
+
+### Dependencies
+
+- please install all the dependencies using npm install
+
+### Installing
+
+- clone this repository by using git clone https://github.com/judinilson/social-network.git
+- then cd/social-network folder then install the dependencies
+
+### Executing program
+
+- To run it use the following command
+- npm start
